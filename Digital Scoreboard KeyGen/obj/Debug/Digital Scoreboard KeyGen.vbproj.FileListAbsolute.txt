@@ -1,0 +1,49 @@
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.exe.config
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.exe
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.pdb
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.xml
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\MainWindow.baml
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Styles.baml
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Application.baml
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\MainWindow.g.vb
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Application.g.vb
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen_MarkupCompile.cache
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.g.resources
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\DigitalScoreboard_KeyGen.Resources.resources
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.vbproj.GenerateResource.Cache
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.exe
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.xml
+D:\CurrentWork\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.pdb
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.exe.config
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.exe
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.xml
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.pdb
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.exe
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.pdb
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.xml
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\MainWindow.baml
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Styles.baml
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Application.baml
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\MainWindow.g.vb
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Application.g.vb
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen_MarkupCompile.cache
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.g.resources
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\DigitalScoreboard_KeyGen.Resources.resources
+D:\CurrentWork-New\Digital Scoreboard KeyGen\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.vbproj.GenerateResource.Cache
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.exe.config
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.exe
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.xml
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.pdb
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.exe
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.pdb
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\bin\Debug\Digital Scoreboard KeyGen.xml
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.vbprojResolveAssemblyReference.cache
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\MainWindow.baml
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Styles.baml
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Application.baml
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\MainWindow.g.vb
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Application.g.vb
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen_MarkupCompile.cache
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.g.resources
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\DigitalScoreboard_KeyGen.Resources.resources
+C:\Users\Wesley\Downloads\Digital Scoreboard KeyGen-sourcecode-06-01-2017\Digital Scoreboard KeyGen\obj\Debug\Digital Scoreboard KeyGen.vbproj.GenerateResource.Cache

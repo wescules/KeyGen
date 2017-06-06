@@ -1,0 +1,66 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="License Key Generator" Height="340" Width="548"  Background="#FF141414" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#FF141414" Name="pnlHeader" >
+            <StackPanel Orientation="Horizontal" Width="Auto" HorizontalAlignment="Center" Margin="0,10,0,0" >
+                <StackPanel >
+                    <Image Source="Resources/SplashIcon.png" Stretch="Uniform"  Height="40" Width="50"></Image>
+                    <TextBlock  Text="Sideline" Foreground="White" FontSize="14" FontFamily="/SIGamePresenter;component/Resources/#BankGothic"   TextAlignment="Center" />
+                    <TextBlock Text="Interactive" Foreground="White" FontSize="12" FontFamily="/SIGamePresenter;component/Resources/#BankGothic"   TextAlignment="Center" />
+                </StackPanel>
+
+                <TextBlock Text="License Key Generator"  FontSize="20" VerticalAlignment="Center" Foreground="#FF92D050" Margin="20" FontFamily="/SIGamePresenter;component/Resources/#BankGothic"  />
+            </StackPanel>
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <!--<TextBlock Text="License Key Generator" Foreground="#FF92D050" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"/>-->
+        </Grid>
+        <Grid Grid.Row="2">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="SIDELINE Product :"  Width="170" FontSize="16" Foreground="White" Margin="10" VerticalAlignment="Center" />
+                <!--<TextBox Name="txtSerialKey" Text="3F2504E0-4F89-41D3-9A0C-0305E82C3301" Width="325"   />-->
+                <ComboBox Name="lstsidelineproduct" Height="30" Width="325" FontSize="16"  Background="Transparent" Margin="10">
+                    <ComboBoxItem Tag="1">Scoreboard BasketballFull</ComboBoxItem>
+                    <ComboBoxItem Tag="2">Scoreboard BasketballSimple</ComboBoxItem>
+                    <ComboBoxItem Tag="3">Scoreboard Generic</ComboBoxItem>
+                    <ComboBoxItem Tag="4">Scoreboard Volleyball</ComboBoxItem>                    
+                </ComboBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="3">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Enter Serial Key here :"  Width="170" FontSize="16" Foreground="White" Margin="10" />
+                <TextBox Name="txtSerialKey" Text="13A3490A-4236D04A-DCA82EA8-799DB16C" Width="325"  FontSize="16" Foreground="#FFFFA500" CaretBrush="#FFFFA500" Background="Transparent" Margin="10" />
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="4">
+            <Line Grid.Row="2" X1="1" Y1="0"  StrokeThickness="2" Stretch="Fill" Stroke="#FF454545"/>
+        </Grid>
+        <Grid Grid.Row="5">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="License Key : " Width="170" FontSize="16" Foreground="White" Margin="10" />
+                <TextBox Name="txtLicenseKey" IsReadOnly="True" Text="3F2504E0-4F89-41D3-9A0C-0305E82C3301"  Width="325" FontSize="16" Foreground="#FF5B9BD5" Background="Transparent" Margin="10" />
+            </StackPanel>
+        </Grid>
+        
+        <Grid Grid.Row="6">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Button Name="btnGenerate" Content="Generate" Width="150" Height="35" FontSize="16" Foreground="White" Margin="10" Style="{StaticResource GradientStyleButtonGreen}"/>
+                <Button Name="btnClose" Content="Close" Width="150" Height="35" FontSize="16" Foreground="White" Margin="10" Style="{StaticResource GradientStyleButtonGray}"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
